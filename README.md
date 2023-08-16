@@ -69,4 +69,4 @@ Contributions to **BuildPlusPlus** are welcome! If you find issues or want to en
 
 ## License
 
-The `BuildSystem` class is provided under the [GPL3 License](LICENSE.md).
+The `BuildSystem` class is provided under the [GPL3 License](LICENSE).
